@@ -16,6 +16,10 @@
     <author href="https://www.kryptonitedigital.com" email="oliver@kryptonitedigital.com">
        Engr. Oliver Gonzales
     </author>
+	
+	<feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
 
 	<icon src="icon.png" />
 	<gap:splash src="splash.png" />
